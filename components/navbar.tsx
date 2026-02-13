@@ -17,7 +17,7 @@ export function Navbar() {
               <span className="text-primary-foreground font-bold text-sm">F</span>
             </div>
             <span className="font-display text-lg font-bold uppercase tracking-wider text-foreground">
-              FitpoweCOL
+              FitpowerCOL
             </span>
           </div>
 

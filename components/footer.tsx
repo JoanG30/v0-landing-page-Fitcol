@@ -8,11 +8,11 @@ export function Footer() {
               <span className="text-primary-foreground font-bold text-sm">F</span>
             </div>
             <span className="font-display text-sm font-bold uppercase tracking-wider text-foreground">
-              FitpoweCOL
+              FitpowerCOL
             </span>
           </div>
           <p className="text-xs text-muted-foreground text-center">
-            {'FitpoweCOL es una marca distribuida en Colombia por M&S VITAMINS S.A.S.'}
+            {'FitpowerCOL es una marca distribuida en Colombia por M&S VITAMINS S.A.S.'}
           </p>
           <p className="text-xs text-muted-foreground">
             {'Venta libre - Res. 2674 de 2013'}

@@ -44,7 +44,7 @@ export function CheckoutModal({ isOpen, onClose }: CheckoutModalProps) {
     const direccionCompleta = `${formData.nomenclatura}, ${formData.barrio}, ${formData.ciudad}, ${formData.departamento} - ${formData.tipoVivienda === "apto" ? `Apto ${formData.detalleVivienda}` : "Casa"}`
 
     const resumen = [
-      `*PEDIDO - Creatina Monohidratada FitpoweCOL*`,
+      `*PEDIDO - Creatina Monohidratada FitpowerCOL*`,
       ``,
       `*Producto:* Creatina Monohidratada 300g`,
       `*Precio:* $89.900 COP`,

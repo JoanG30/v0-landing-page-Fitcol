@@ -8,7 +8,7 @@ const _inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 const _oswald = Oswald({ subsets: ['latin'], variable: '--font-oswald' })
 
 export const metadata: Metadata = {
-  title: 'Creatina Monohidratada | FitpoweCOL',
+  title: 'Creatina Monohidratada | FitpowerCOL',
   description: 'Creatina Monohidratada Grado USP - 60 servicios, 300g. Aumenta tu fuerza, energia y recuperacion con materia prima pura de grado farmaceutico.',
 }
 
