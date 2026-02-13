@@ -14,10 +14,10 @@ export function Navbar() {
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="h-8 w-8 rounded-full bg-primary flex items-center justify-center">
-              <span className="text-primary-foreground font-bold text-sm">e</span>
+              <span className="text-primary-foreground font-bold text-sm">F</span>
             </div>
             <span className="font-display text-lg font-bold uppercase tracking-wider text-foreground">
-              Essentials
+              FitpoweCOL
             </span>
           </div>
 

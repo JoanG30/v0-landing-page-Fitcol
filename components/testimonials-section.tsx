@@ -60,7 +60,7 @@ export function TestimonialsSection() {
             <span className="text-primary">confian en nosotros</span>
           </h2>
           <p className="mt-4 text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            {'+ de 5,000 atletas en Colombia ya potencian su rendimiento con Essentials Ingredients.'}
+            {'+ de 5,000 atletas en Colombia ya potencian su rendimiento con FitpoweCOL.'}
           </p>
         </div>
 

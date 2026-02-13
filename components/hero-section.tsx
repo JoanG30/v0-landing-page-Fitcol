@@ -79,7 +79,7 @@ export function HeroSection() {
             <div className="animate-float relative">
               <Image
                 src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-cEXzQ9B6UOaelid3BAxk46CxKuercC.png"
-                alt="Creatina Monohidratada Essentials Ingredients - 300g 60 servicios"
+                alt="Creatina Monohidratada FitpoweCOL - 300g 60 servicios"
                 width={600}
                 height={600}
                 className="relative z-10 drop-shadow-2xl w-full h-auto max-w-[600px]"

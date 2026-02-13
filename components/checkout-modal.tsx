@@ -44,7 +44,7 @@ export function CheckoutModal({ isOpen, onClose }: CheckoutModalProps) {
     const direccionCompleta = `${formData.nomenclatura}, ${formData.barrio}, ${formData.ciudad}, ${formData.departamento} - ${formData.tipoVivienda === "apto" ? `Apto ${formData.detalleVivienda}` : "Casa"}`
 
     const resumen = [
-      `*PEDIDO - Creatina Monohidratada Essentials*`,
+      `*PEDIDO - Creatina Monohidratada FitpoweCOL*`,
       ``,
       `*Producto:* Creatina Monohidratada 300g`,
       `*Precio:* $89.900 COP`,
@@ -127,7 +127,7 @@ export function CheckoutModal({ isOpen, onClose }: CheckoutModalProps) {
             {/* Product summary */}
             <div className="flex items-center gap-4 rounded-xl bg-secondary/50 p-4">
               <div className="h-14 w-14 shrink-0 rounded-lg bg-primary/10 flex items-center justify-center">
-                <span className="font-display text-xl font-bold text-primary">e</span>
+                <span className="font-display text-xl font-bold text-primary">F</span>
               </div>
               <div className="flex-1 min-w-0">
                 <p className="text-sm font-semibold text-foreground truncate">Creatina Monohidratada 300g</p>
@@ -393,7 +393,7 @@ export function CheckoutModal({ isOpen, onClose }: CheckoutModalProps) {
 
               <div className="flex items-center gap-4 pb-4 border-b border-border">
                 <div className="h-12 w-12 shrink-0 rounded-lg bg-primary/10 flex items-center justify-center">
-                  <span className="font-display text-lg font-bold text-primary">e</span>
+                  <span className="font-display text-lg font-bold text-primary">F</span>
                 </div>
                 <div className="flex-1">
                   <p className="text-sm font-semibold text-foreground">Creatina Monohidratada 300g</p>

@@ -18,7 +18,7 @@ export function CtaSection() {
             <div className="relative flex items-center justify-center p-8 lg:p-12 bg-[radial-gradient(circle_at_center,hsl(82_77%_45%/0.08)_0%,transparent_70%)]">
               <Image
                 src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-5ntHMWrqPc8ckANQhMuUus84P9FwD8.png"
-                alt="Creatina Monohidratada Essentials Ingredients - Informacion nutricional y de ingredientes"
+                alt="Creatina Monohidratada FitpoweCOL - Informacion nutricional y de ingredientes"
                 width={450}
                 height={450}
                 className="drop-shadow-xl w-full h-auto max-w-[450px]"

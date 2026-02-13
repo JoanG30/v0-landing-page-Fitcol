@@ -31,7 +31,7 @@ export function ProductSection() {
             </div>
             <Image
               src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-Y09ZOUTPdOhClwUpBqWASPbblmrrHT.png"
-              alt="Creatina Monohidratada Essentials Ingredients - Vista frontal del producto"
+              alt="Creatina Monohidratada FitpoweCOL - Vista frontal del producto"
               width={500}
               height={500}
               className="relative z-10 drop-shadow-2xl w-full h-auto max-w-[500px]"
