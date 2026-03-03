@@ -10,7 +10,7 @@ const _oswald = Oswald({ subsets: ['latin'], variable: '--font-oswald' })
 export const metadata: Metadata = {
   title: 'Creatina Monohidratada | FitpowerCOL',
   description:
-    'Creatina Monohidratada Grado USP – 60 servicios, 300g. Aumenta tu fuerza, energía y recuperación con materia prima pura de grado farmacéutico.',
+    'Creatina Monohidratada Grado USP – 60 servicios, 300 g. Aumenta tu fuerza, energía y recuperación con materia prima pura de grado farmacéutico.',
 }
 
 export const viewport: Viewport = {
