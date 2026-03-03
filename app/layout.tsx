@@ -9,7 +9,8 @@ const _oswald = Oswald({ subsets: ['latin'], variable: '--font-oswald' })
 
 export const metadata: Metadata = {
   title: 'Creatina Monohidratada | FitpowerCOL',
-  description: 'Creatina Monohidratada Grado USP - 60 servicios, 300g. Aumenta tu fuerza, energia y recuperacion con materia prima pura de grado farmaceutico.',
+  description:
+    'Creatina Monohidratada Grado USP – 60 servicios, 300g. Aumenta tu fuerza, energía y recuperación con materia prima pura de grado farmacéutico.',
 }
 
 export const viewport: Viewport = {
@@ -18,12 +19,20 @@ export const viewport: Viewport = {
 
 export default function RootLayout({
   children,
-}: Readonly<{
+}: {
   children: React.ReactNode
-}>) {
+}) {
   return (
     <html lang="es">
-      <body className={`${_inter.variable} ${_oswald.variable} font-sans antialiased`}>
+      <head>
+        <meta
+          name="facebook-domain-verification"
+          content="ekhvpftxaiv47exdadq1co1yfrme3h"
+        />
+      </head>
+      <body
+        className={`${_inter.variable} ${_oswald.variable} font-sans antialiased`}
+      >
         <CheckoutProvider>{children}</CheckoutProvider>
       </body>
     </html>
